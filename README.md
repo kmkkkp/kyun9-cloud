@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EA%B3%BD%EC%98%88%EA%B2%BD%EC%9E%85%EB%8B%88%EB%8B%A4%F0%9F%90%BB)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=FFC300&height=300&section=header&text=🐻&fontSize=90)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=000000&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EA%B3%BD%EC%98%88%EA%B2%BD%EC%9E%85%EB%8B%88%EB%8B%A4%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### 💻 Tech
 
