@@ -10,11 +10,13 @@
 </h3>
 
 
+### 🛝 Hobby
+
 <table>
     <thead>
         <tr>
-            <th><center>사진</center></th>
-            <th><center>사진</center></th>
+            <th><center><img src="./img/climbing.png" alt="flaticon" style="height:150px;"></center></th>
+            <th><center><img src="./img/band.png" alt="gravisio" style="height:150px;"></center></th>
         </tr>
     </thead>
     <tbody>
@@ -26,7 +28,6 @@
     
 </table>
 
-프디아 6기
 
 ### 💻 Tech
 
@@ -59,3 +60,4 @@ Here are some ideas to get you started:
 -->
 
 </div>
+
